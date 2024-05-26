@@ -3,7 +3,7 @@
 import streamlit as st
 import os
 
-OPENAI_API_KEY = 'sk-proj-QdHDJ3Ou2e7hvjtmAFvrT3BlbkFJbvocSkcjswz4dYp4SxLT'
+OPENAI_API_KEY = ''
 PINECONE_API_KEY = "0f30edf2-0cf8-4a8f-a7c9-d460decc2a32"
 #from streamlit_app import reponse
 
